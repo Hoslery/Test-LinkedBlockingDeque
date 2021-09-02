@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.ac.uniyar.testingcourse.MyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-31T13:36:00" hostname="LAPTOP-ECTAULGN" time="0.11">
+  <properties/>
+  <testcase name="exc()" classname="ru.ac.uniyar.testingcourse.MyTest" time="0.096"/>
+  <testcase name="test1()" classname="ru.ac.uniyar.testingcourse.MyTest" time="0.004"/>
+  <testcase name="test2()" classname="ru.ac.uniyar.testingcourse.MyTest" time="0.0"/>
+  <testcase name="test3()" classname="ru.ac.uniyar.testingcourse.MyTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
